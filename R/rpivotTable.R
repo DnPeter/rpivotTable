@@ -154,7 +154,7 @@ params <- c(params, par)
 #' 
 #' 
 #' @export
-rpivotTableOutput <- function(outputId, width = '100%', height = '100px'){
+rpivotTableOutput <- function(outputId, width = '80%', height = '1000px'){
     shinyWidgetOutput(outputId, 'rpivotTable', width, height, package = 'rpivotTable')
 }
 
