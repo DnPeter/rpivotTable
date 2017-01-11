@@ -14,6 +14,6 @@
  .tick line {stroke: white;}
  .c3-axis path {stroke: red;}
  .c3-circle { opacity: 1 ! important;}
- .pvtRows, .pvtCols {background: grey none repeat scroll 0 0;}
+ .pvtRows, .pvtCols {background: #eaeaea none repeat scroll 0 0;}
  .pvtFilteredAttribute { font-weight: bold;}
     
