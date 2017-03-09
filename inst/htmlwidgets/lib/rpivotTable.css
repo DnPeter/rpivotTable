@@ -1,7 +1,7 @@
 .table {font-family: Helvetica;}
 .node  {
     border: solid 1px white;
-    font: 2px tahoma;
+    font: 6px tahoma;
     line-height: 2px;
     overflow: hidden;
     text-indent: 2px;
@@ -10,7 +10,7 @@
     }
  .c3-line, .c3-focused {stroke-width: 3px !important;}
  .c3-bar {stroke: white !important; stroke-width: 1;}
- .c3 text { font-size: 2px; color: grey;}
+ .c3 text { font-size: 6px; color: grey;}
  .tick line {stroke: white;}
  .c3-axis path {stroke: red;}
  .c3-circle { opacity: 1 ! important;}
