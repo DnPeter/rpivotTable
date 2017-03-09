@@ -2,9 +2,9 @@
 .node  {
     border: solid 1px white;
     font: 6px tahoma;
-    line-height: 2px;
+    line-height: 6px;
     overflow: hidden;
-    text-indent: 2px;
+    text-indent: 6px;
     position : absolute;
 
     }
